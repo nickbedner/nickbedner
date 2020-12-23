@@ -1,4 +1,4 @@
-### Hi there, has anyone really been far even as decided to use even go want to do look more like with C? 👋
+### Hi there, welcome to my GitHub page! 👋
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nickbedner)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickbedner&layout=compact)
